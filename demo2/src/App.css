@@ -1,0 +1,10 @@
+.main{
+    display: flex;
+  }
+  .input{
+    width : 50%;
+  }
+  .output{
+    width : 50%;
+  }
+  
